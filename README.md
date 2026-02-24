@@ -6,6 +6,8 @@ It is an exercise in EARTH4090 Landscape Dynamics, an honours level course on th
 In this lab we will start to explore some stuff about Tectonic Geomorphology. In particular it is important to get used to calculating distances, rates, forces, and other relevant things that we can quantify from remote sensing data, topographic data or other sources of landscape information.
 
 The model is written in the Python computer programming language, but you don't need any prior knowledge of computer programming. 
+You can run the lab using the following link to Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdhurst1/Introduction-to-Python-and-Basic-Calculations/main?urlpath=%2Fdoc%2Ftree%2FPython_Intro_Basic_Calculations.ipynb)
 
 ### Intended Learning Outcomes
 The intended learning outcomes of this lab are:
