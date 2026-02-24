@@ -7,7 +7,7 @@ In this lab we will start to explore some stuff about Tectonic Geomorphology. In
 
 The model is written in the Python computer programming language, but you don't need any prior knowledge of computer programming. 
 
-###Intended Learning Outcomes
+### Intended Learning Outcomes
 The intended learning outcomes of this lab are:
 * To understand how to conduct basic calculations in Python
 * To be able to work out units of measurement for calculations of forces and pressures
